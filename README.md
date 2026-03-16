@@ -35,5 +35,9 @@ This highlights how important housing is for students and how commonly it is dis
 
 The collected YouTube data can be downloaded here:
 
-- [Download Dataset](assets/uwseattle-result-1.csv)
-- - [Download Dataset](assets/uwhousing-result-2.csv)
+## Data
+
+The collected YouTube data can be downloaded here:
+
+- [UW Seattle Dataset](assets/uwseattle-result-1.csv)
+- [UW Housing Dataset](assets/uwhousing-result-2.csv)
